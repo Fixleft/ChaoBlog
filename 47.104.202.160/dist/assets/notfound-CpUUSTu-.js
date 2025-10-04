@@ -1,0 +1,6 @@
+import{j as e}from"./framer-TAp2EHm1.js";import{B as a}from"./button-4c2KjQxI.js";import{e as t,C as r,a as s,b as o,d as n}from"./index-ufr3Enzw.js";import{A as i}from"./arrow-left-fXot0NF6.js";import{L as m}from"./index-DNux_Z8B.js";import"./react-Csw2ODfV.js";import"./index-De41xqz2.js";/**
+ * @license lucide-react v0.525.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const c=[["path",{d:"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z",key:"1rqfz7"}],["path",{d:"M14 2v4a2 2 0 0 0 2 2h4",key:"tnqrlb"}],["path",{d:"m14.5 12.5-5 5",key:"b62r18"}],["path",{d:"m9.5 12.5 5 5",key:"1rk7el"}]],d=t("file-x",c);function y(){return e.jsx("div",{className:"container mx-auto px-4 py-8 max-w-2xl",children:e.jsxs(r,{className:"text-center",children:[e.jsxs(s,{children:[e.jsx("div",{className:"flex justify-center mb-4",children:e.jsx(d,{className:"w-16 h-16 text-gray-400"})}),e.jsx(o,{className:"text-2xl font-bold text-gray-900",children:"页面未找到"})]}),e.jsxs(n,{children:[e.jsx("p",{className:"text-gray-600 mb-6",children:"抱歉，您要查找的页面不存在。"}),e.jsx(m,{to:"/note",children:e.jsxs(a,{children:[e.jsx(i,{className:"w-4 h-4 mr-2"}),"返回首页"]})})]})]})})}export{y as default};

@@ -1,0 +1,1 @@
+const o="https://www.chaosama.asia";async function a(){const s=await fetch(`${o}/api/posts`);if(!s.ok)throw new Error("获取文章失败");return await s.json()}async function n(s){const t=await fetch(`${o}/api/posts/${s}`);return t.ok?await t.json():null}export{n as a,a as g};
