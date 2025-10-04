@@ -9,4 +9,5 @@
       fontawesome.com（ICON网站）
       jyshare.com（取色器）
       literal.club（读书网站，可以通过接口获取数据信息和阅读情况）
-      
+
+因为电脑重装系统数据都丢失了，所以这里的代码都是使用vite构建后的前端代码（dist）。
