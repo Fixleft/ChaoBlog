@@ -7,6 +7,6 @@
       magicui.design（react组件库）
       ui.aceternity.com（react组件库）
       fontawesome.com（ICON网站）
-      www.jyshare.com（取色器）
+      jyshare.com（取色器）
       literal.club（读书网站，可以通过接口获取数据信息和阅读情况）
       
